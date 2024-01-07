@@ -1,0 +1,25 @@
+{
+  "name": "note-cleaner",
+  "version": "0.0.1",
+  "description": "A Obsidian Vault cleaner",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aarongilly/note-cleaner.git"
+  },
+  "keywords": [
+    "obsidian"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aarongilly/note-cleaner/issues"
+  },
+  "homepage": "https://github.com/aarongilly/note-cleaner#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
